@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="full_name">full name</string>
+    <string name="email_val">E-mail:</string>
+    <string name="nb_posts">number of posts:</string>
+    <string name="finished">finished</string>
+    <string name="todo">Todos:</string>
+    <string name="posts">Show all posts</string>
+    <string name="todos">Show all todos</string>
+    <string name="slash">/</string>
+    <string name="number">nb</string>
+</resources>
